@@ -19,7 +19,7 @@ main = do
     print $ prodPosNeg'' nums
     print $ h nums
     x <- a 5 -- Aqui posso usar "<-" pois a é um MONAD
-    let y = b 42 -- Aqui sou obrigado a usar "let" e "=" pois g não é MONAD
+    let y = b 42 -- Aqui sou obrigado a usar "let" e "=" pois b não é MONAD
     print $ show $ x + y
     z <- c 10
     print z
