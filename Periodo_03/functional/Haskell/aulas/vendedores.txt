@@ -1,0 +1,59 @@
+Vendedor {nome = "Joao Carlos", cpf = "111.222.333-44", uf = "SP", aniversario = Data {ano = 1985, mes = 10, dia = 20}, dependente = [12, 8], vendas = [1500, 2300, 4100]}
+Vendedor {nome = "Maria Silva", cpf = "555.666.777-88", uf = "RJ", aniversario = Data {ano = 1992, mes = 3, dia = 15}, dependente = [3], vendas = [3200, 1800]}
+Vendedor {nome = "Ana Beatriz", cpf = "999.888.777-66", uf = "MG", aniversario = Data {ano = 2000, mes = 7, dia = 5}, dependente = [], vendas = [5000, 4200, 6000, 5500]}
+Vendedor {nome = "Carlos Santos", cpf = "123.456.789-01", uf = "BA", aniversario = Data {ano = 1988, mes = 1, dia = 10}, dependente = [5, 2], vendas = [2100, 1900, 2800, 3200]}
+Vendedor {nome = "Patricia Oliveira", cpf = "234.567.890-12", uf = "CE", aniversario = Data {ano = 1995, mes = 6, dia = 22}, dependente = [1], vendas = [4500, 3800, 5200]}
+Vendedor {nome = "Roberto Ferreira", cpf = "345.678.901-23", uf = "PE", aniversario = Data {ano = 1982, mes = 11, dia = 30}, dependente = [7, 4, 1], vendas = [2900, 3100, 2700, 3500]}
+Vendedor {nome = "Fernanda Costa", cpf = "456.789.012-34", uf = "SC", aniversario = Data {ano = 1998, mes = 2, dia = 14}, dependente = [], vendas = [6200, 5900, 7100]}
+Vendedor {nome = "Diego Martins", cpf = "567.890.123-45", uf = "RS", aniversario = Data {ano = 1990, mes = 8, dia = 25}, dependente = [9], vendas = [3800, 4200, 3900, 4600]}
+Vendedor {nome = "Juliana Lima", cpf = "678.901.234-56", uf = "GO", aniversario = Data {ano = 1987, mes = 4, dia = 18}, dependente = [6], vendas = [2400, 2800, 2600, 3100]}
+Vendedor {nome = "Marcelo Gomes", cpf = "789.012.345-67", uf = "DF", aniversario = Data {ano = 1984, mes = 9, dia = 7}, dependente = [11, 8, 3], vendas = [5100, 5800, 5400, 6200]}
+Vendedor {nome = "Gabriela Rocha", cpf = "890.123.456-78", uf = "MT", aniversario = Data {ano = 1996, mes = 12, dia = 3}, dependente = [2], vendas = [3600, 3200, 4100, 3800]}
+Vendedor {nome = "Felipe Alves", cpf = "901.234.567-89", uf = "PA", aniversario = Data {ano = 1989, mes = 5, dia = 16}, dependente = [], vendas = [4800, 5200, 4900, 5600]}
+Vendedor {nome = "Camila Souza", cpf = "012.345.678-90", uf = "SP", aniversario = Data {ano = 1994, mes = 3, dia = 8}, dependente = [4], vendas = [2700, 3100, 2900, 3400]}
+Vendedor {nome = "Rafael Nunes", cpf = "111.111.111-11", uf = "RJ", aniversario = Data {ano = 1991, mes = 7, dia = 21}, dependente = [6, 2], vendas = [5300, 5900, 5700, 6400]}
+Vendedor {nome = "Beatriz Pereira", cpf = "222.222.222-22", uf = "MG", aniversario = Data {ano = 1986, mes = 10, dia = 29}, dependente = [], vendas = [3400, 3900, 3600, 4200]}
+Vendedor {nome = "Lucas Tavares", cpf = "333.333.333-33", uf = "BA", aniversario = Data {ano = 1997, mes = 1, dia = 11}, dependente = [1, 3], vendas = [4100, 4600, 4300, 5000]}
+Vendedor {nome = "Amanda Carvalho", cpf = "444.444.444-44", uf = "CE", aniversario = Data {ano = 1993, mes = 8, dia = 24}, dependente = [5], vendas = [2800, 3200, 3000, 3600]}
+Vendedor {nome = "Thiago Machado", cpf = "555.555.555-55", uf = "PE", aniversario = Data {ano = 1988, mes = 2, dia = 6}, dependente = [], vendas = [6100, 6800, 6400, 7200]}
+Vendedor {nome = "Isabela Ribeiro", cpf = "666.666.666-66", uf = "SC", aniversario = Data {ano = 1999, mes = 11, dia = 17}, dependente = [2], vendas = [3200, 3700, 3400, 4000]}
+Vendedor {nome = "Gustavo Mendes", cpf = "777.777.777-77", uf = "RS", aniversario = Data {ano = 1985, mes = 4, dia = 9}, dependente = [8, 5], vendas = [4700, 5200, 4900, 5700]}
+Vendedor {nome = "Victoria Santos", cpf = "888.888.888-88", uf = "GO", aniversario = Data {ano = 1992, mes = 9, dia = 27}, dependente = [], vendas = [2600, 3000, 2800, 3300]}
+Vendedor {nome = "Eduardo Silva", cpf = "999.999.999-99", uf = "DF", aniversario = Data {ano = 1987, mes = 6, dia = 13}, dependente = [7, 1], vendas = [5500, 6100, 5800, 6600]}
+Vendedor {nome = "Natalia Costa", cpf = "101.010.101-01", uf = "MT", aniversario = Data {ano = 1995, mes = 12, dia = 31}, dependente = [3], vendas = [3900, 4400, 4100, 4800]}
+Vendedor {nome = "Bruno Azevedo", cpf = "202.020.202-02", uf = "PA", aniversario = Data {ano = 1990, mes = 5, dia = 19}, dependente = [], vendas = [4300, 4900, 4600, 5300]}
+Vendedor {nome = "Sophia Domingues", cpf = "303.030.303-03", uf = "SP", aniversario = Data {ano = 1996, mes = 3, dia = 2}, dependente = [1, 2], vendas = [2900, 3400, 3100, 3700]}
+Vendedor {nome = "Leonardo Barbosa", cpf = "404.040.404-04", uf = "RJ", aniversario = Data {ano = 1989, mes = 10, dia = 12}, dependente = [4], vendas = [5700, 6300, 6000, 6800]}
+Vendedor {nome = "Yasmin Rezende", cpf = "505.050.505-05", uf = "MG", aniversario = Data {ano = 1994, mes = 7, dia = 28}, dependente = [], vendas = [3300, 3800, 3500, 4100]}
+Vendedor {nome = "Matheus Freitas", cpf = "606.060.606-06", uf = "BA", aniversario = Data {ano = 1991, mes = 1, dia = 5}, dependente = [6, 3], vendas = [4400, 5000, 4700, 5400]}
+Vendedor {nome = "Heloise Teixeira", cpf = "707.070.707-07", uf = "CE", aniversario = Data {ano = 1997, mes = 8, dia = 16}, dependente = [2], vendas = [2700, 3100, 2900, 3400]}
+Vendedor {nome = "Otavio Pinto", cpf = "808.080.808-08", uf = "PE", aniversario = Data {ano = 1986, mes = 4, dia = 23}, dependente = [], vendas = [6300, 7000, 6600, 7400]}
+Vendedor {nome = "Lucia Martins", cpf = "909.090.909-09", uf = "SC", aniversario = Data {ano = 1993, mes = 11, dia = 10}, dependente = [5, 1], vendas = [3100, 3600, 3300, 3900]}
+Vendedor {nome = "Alexi Oliveira", cpf = "111.222.333-55", uf = "RS", aniversario = Data {ano = 1988, mes = 6, dia = 20}, dependente = [9, 4], vendas = [4900, 5500, 5200, 5900]}
+Vendedor {nome = "Raina Souza", cpf = "222.333.444-66", uf = "GO", aniversario = Data {ano = 1999, mes = 2, dia = 14}, dependente = [], vendas = [2400, 2800, 2600, 3100]}
+Vendedor {nome = "Dieggo Neves", cpf = "333.444.555-77", uf = "DF", aniversario = Data {ano = 1984, mes = 9, dia = 1}, dependente = [7, 2], vendas = [5800, 6400, 6100, 6900]}
+Vendedor {nome = "Helena Rocha", cpf = "444.555.666-88", uf = "MT", aniversario = Data {ano = 1990, mes = 12, dia = 25}, dependente = [3], vendas = [3700, 4200, 3900, 4600]}
+Vendedor {nome = "Jonatan Lima", cpf = "555.666.777-99", uf = "PA", aniversario = Data {ano = 1987, mes = 5, dia = 8}, dependente = [], vendas = [4600, 5200, 4900, 5600]}
+Vendedor {nome = "Priscila Carmo", cpf = "666.777.888-00", uf = "SP", aniversario = Data {ano = 1995, mes = 3, dia = 18}, dependente = [1, 4], vendas = [3000, 3500, 3200, 3800]}
+Vendedor {nome = "Aureliano Gomes", cpf = "777.888.999-11", uf = "RJ", aniversario = Data {ano = 1992, mes = 10, dia = 7}, dependente = [6], vendas = [5400, 6000, 5700, 6400]}
+Vendedor {nome = "Vivian Campos", cpf = "888.999.000-22", uf = "MG", aniversario = Data {ano = 1998, mes = 7, dia = 19}, dependente = [], vendas = [3200, 3700, 3400, 4000]}
+Vendedor {nome = "Sergio Ponte", cpf = "999.000.111-33", uf = "BA", aniversario = Data {ano = 1986, mes = 1, dia = 30}, dependente = [8, 5, 2], vendas = [5100, 5700, 5400, 6100]}
+Vendedor {nome = "Dandara Dias", cpf = "000.111.222-44", uf = "CE", aniversario = Data {ano = 1991, mes = 8, dia = 11}, dependente = [2], vendas = [2800, 3300, 3000, 3600]}
+Vendedor {nome = "Henrique Louro", cpf = "121.212.121-21", uf = "PE", aniversario = Data {ano = 1989, mes = 4, dia = 22}, dependente = [], vendas = [6000, 6700, 6300, 7100]}
+Vendedor {nome = "Clarice Faria", cpf = "131.313.131-31", uf = "SC", aniversario = Data {ano = 1996, mes = 11, dia = 4}, dependente = [3], vendas = [3400, 3900, 3600, 4300]}
+Vendedor {nome = "Fabrizio Ortiz", cpf = "141.414.141-41", uf = "RS", aniversario = Data {ano = 1993, mes = 6, dia = 15}, dependente = [5], vendas = [4800, 5400, 5100, 5800]}
+Vendedor {nome = "Marta Cordeiro", cpf = "151.515.151-51", uf = "GO", aniversario = Data {ano = 1987, mes = 12, dia = 26}, dependente = [], vendas = [2500, 2900, 2700, 3200]}
+Vendedor {nome = "Wilmar Santos", cpf = "161.616.161-61", uf = "DF", aniversario = Data {ano = 1994, mes = 2, dia = 9}, dependente = [7, 1], vendas = [5600, 6200, 5900, 6700]}
+Vendedor {nome = "Silvana Machado", cpf = "171.717.171-71", uf = "MT", aniversario = Data {ano = 1988, mes = 9, dia = 20}, dependente = [4], vendas = [3600, 4100, 3800, 4500]}
+Vendedor {nome = "Cristovao Moura", cpf = "181.818.181-81", uf = "PA", aniversario = Data {ano = 1992, mes = 5, dia = 3}, dependente = [], vendas = [4700, 5300, 5000, 5700]}
+Vendedor {nome = "Ligia Ferreira", cpf = "191.919.191-91", uf = "SP", aniversario = Data {ano = 1999, mes = 10, dia = 14}, dependente = [2, 1], vendas = [2600, 3000, 2800, 3300]}
+Vendedor {nome = "Valter Albuquerque", cpf = "202.121.202-12", uf = "RJ", aniversario = Data {ano = 1985, mes = 7, dia = 29}, dependente = [9, 6], vendas = [5900, 6500, 6200, 7000]}
+Vendedor {nome = "Adriana Nobre", cpf = "212.222.212-22", uf = "MG", aniversario = Data {ano = 1990, mes = 3, dia = 12}, dependente = [], vendas = [3100, 3600, 3300, 3900]}
+Vendedor {nome = "Arnaldo Chaves", cpf = "222.323.222-32", uf = "BA", aniversario = Data {ano = 1997, mes = 11, dia = 21}, dependente = [3, 2], vendas = [4300, 4900, 4600, 5300]}
+Vendedor {nome = "Zelia Bezerra", cpf = "232.424.232-42", uf = "CE", aniversario = Data {ano = 1989, mes = 1, dia = 6}, dependente = [5], vendas = [2900, 3400, 3100, 3700]}
+Vendedor {nome = "Arlindo Gadelha", cpf = "242.525.242-52", uf = "PE", aniversario = Data {ano = 1986, mes = 8, dia = 17}, dependente = [], vendas = [6200, 6900, 6500, 7300]}
+Vendedor {nome = "Marlise Rodriques", cpf = "252.626.252-62", uf = "SC", aniversario = Data {ano = 1994, mes = 4, dia = 28}, dependente = [1, 4], vendas = [3300, 3800, 3500, 4100]}
+Vendedor {nome = "Jeronimo Pessanha", cpf = "262.727.262-72", uf = "RS", aniversario = Data {ano = 1991, mes = 9, dia = 10}, dependente = [6], vendas = [5000, 5600, 5300, 6000]}
+Vendedor {nome = "Isolda Fragoso", cpf = "272.828.272-82", uf = "GO", aniversario = Data {ano = 1988, mes = 6, dia = 23}, dependente = [], vendas = [2400, 2800, 2600, 3100]}
+Vendedor {nome = "Custodio Tavares", cpf = "282.929.282-92", uf = "DF", aniversario = Data {ano = 1995, mes = 12, dia = 5}, dependente = [8, 3], vendas = [5700, 6300, 6000, 6800]}
+Vendedor {nome = "Edileuza Braga", cpf = "293.030.293-03", uf = "MT", aniversario = Data {ano = 1992, mes = 2, dia = 16}, dependente = [2], vendas = [3500, 4000, 3700, 4400]}

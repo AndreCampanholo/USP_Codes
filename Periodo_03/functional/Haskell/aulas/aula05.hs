@@ -10,6 +10,7 @@ main = do
     print $ filter (==Fahrenheit 50) [Celsius 10, Fahrenheit 6]
 
 data Talvez a = Nada | Apenas a
+
 data Temperatura = Celsius Float | Fahrenheit Float
     deriving (Show)
 
