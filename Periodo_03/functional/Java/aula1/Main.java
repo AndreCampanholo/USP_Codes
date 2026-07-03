@@ -1,4 +1,4 @@
-package Periodo_03.functional.Java;
+package Periodo_03.functional.Java.aula1;
 
 class A {
     public void f() {
