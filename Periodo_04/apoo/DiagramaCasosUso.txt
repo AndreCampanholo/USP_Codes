@@ -1,0 +1,38 @@
+André Campanholo Paschoalini - 14558061
+
+1. Identificação de atores.
+Atores Principais:
+  - Passageiros: procura, compara, reserva e compra passagens.
+  - Empresas de Viação: disponibiliza viagens, acompanha-as, cuida de reembolsos, trocas e cancelamentos.
+  - Motoristas: consultam suas viagens e vẽem lista de passageiros.
+  Os atores acima são os usuários do sistema. Dessa forma, é possível criar um ator denomindado "Usuários do Sistema", que engloba os acima.
+  - Administradores: monitoram as operações do sistema e cuidam da geração de relatórios.
+Atores Secundários:
+  - Plataforma de Pagamentos: realizam as operações de pagamento sobre os casos de uso (como na efetuação de compra de passagem, nos reembolsos...).
+  - Serviço de Envio de Notificações: enviam notificações aos usuários quando nos casos de uso (reserva de passagem, confirmação de pagamento...).
+
+2. Identificação dos casos de uso.
+  Passageiro:
+    - Pesquisar viagens
+    - Comparar viagens (preços e horários)
+    - Selecionar assentos
+    - Reservar viagens
+    - Efetuar a compra de passagens
+  Motorista:
+    - Consultar informações de suas viagens
+    - Ver lista de passageiros
+  Empresas de Viação
+    - Gerenciamento de cancelamentos
+    - Gerenciamento de reembolsos
+    - Alteração/troca de passagens
+    - Cadastrar viagens (rotas, horários, preços, ônibus)
+    - Acompanhar vendas
+  Administrador:
+    - Monitorar operações do sistema
+    - Gerar relatórios (financeiros e operacionais)
+  Plataforma de Pagamentos:
+    - Agir sobre os casos de uso que envolvem transferências de dinheiro
+  Serviço de Envio de Notificações:
+    - Enviar notificações em casos de uso nos quais os usuários do sistema devem ser notificados.
+
+3. e 4. Foram feitos diretamente no diagrama.
